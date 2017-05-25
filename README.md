@@ -20,19 +20,19 @@ pip install selenium
 1. Buat detect suara perintah melalui Google Speech Recognizer
 2. Membuat eksekusi di browser untuk fungsi2 sebagai berikut:
 
-a. Open Tokopedia (done)
-b. Goto Store 
-c. Add Product -> termasuk upload picture
-d. Check Notification
-e. Open Order
-f. Open Message
-g. Reply Message
+* Open Tokopedia (done)
+* Goto Store 
+* Add Product -> termasuk upload picture
+* Check Notification
+* Open Order
+* Open Message
+* Reply Message
 
 3. Chatting di whatsapp browser:
 
-a. Pindah chat user
-b. Reply chatting
-c. Add emoji
+* Pindah chat user
+* Reply chatting
+* Add emoji
 
 4. Call ke user lewat browser (ke telpon biasa)
 
