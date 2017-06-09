@@ -2,7 +2,7 @@
 Project ini untuk disabilities supaya bisa memakai Tokopedia.
 * Project setup: Jocelyn (an4s.lyn@gmail.com)
 * Project team: Kresna (kresna.jenie@gmail.com)
-* Project team: Angel 
+* Project team: Angel (angeline.aurelia20@gmail.com)
 
 ## Setup requirement
 
